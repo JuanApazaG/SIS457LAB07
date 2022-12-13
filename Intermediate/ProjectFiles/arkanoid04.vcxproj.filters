@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\arkanoid04.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1AE86A25-EA93-48E6-BA0F-43D027B78497}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\arkanoid04.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\arkanoid04Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{E175839C-B35E-4A83-9288-59410F03C4AA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\arkanoid04">
+      <UniqueIdentifier>{B1A30C2B-73B0-4E14-A5E5-753F201AC2CD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\arkanoid04\AntiHelpCapsule.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\AntiHelpCapsule.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\arkanoid04\arkanoid04.Build.cs">
+      <Filter>Source\arkanoid04</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\arkanoid04\arkanoid04.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\arkanoid04.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\arkanoid04GameModeBase.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\arkanoid04GameModeBase.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\Ball.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\Ball.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\BallBound.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\BallBound.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\Brick.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\Brick.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\CapsuleCreator.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\CapsuleCreator.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\CapsuleOfHealt.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\CapsuleOfHealt.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\CapsuleOfMultiplication.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\CapsuleOfMultiplication.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\CapsuleOfSpeed.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\CapsuleOfSpeed.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\GameCapsule.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\GameCapsule.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\HelpCapsule.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\HelpCapsule.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\Paddle.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\Paddle.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid04\Paddle_Player_Controller.cpp">
+      <Filter>Source\arkanoid04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid04\Paddle_Player_Controller.h">
+      <Filter>Source\arkanoid04</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

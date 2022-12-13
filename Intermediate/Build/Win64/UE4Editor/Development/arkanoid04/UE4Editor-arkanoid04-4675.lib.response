@@ -1,0 +1,39 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-arkanoid04-4675.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\arkanoid04Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\AntiHelpCapsule.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\arkanoid04.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\arkanoid04GameModeBase.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Ball.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\BallBound.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Brick.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleCreator.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleOfHealt.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleOfMultiplication.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleOfSpeed.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\GameCapsule.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\HelpCapsule.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Paddle.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Paddle_Player_Controller.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\AntiHelpCapsule.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\arkanoid04.init.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\arkanoid04GameModeBase.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Ball.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\BallBound.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Brick.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleCreator.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleOfHealt.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleOfMultiplication.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\CapsuleOfSpeed.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\GameCapsule.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\HelpCapsule.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Paddle.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Paddle_Player_Controller.gen.cpp.obj"
+"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Default.rc2.res"
+/OUT:"E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04 FactoryMethod\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\UE4Editor-arkanoid04-4675.lib"
